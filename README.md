@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm Kat!
+## im kat!
 recently, i've been unemployed enough (aka procrastinating my summer school homework) to lock in and actually code... i like (and am semi-competent at) web development (HTML, CSS, JS) but i'm learning and learning tailwind CSS to make my life easier & trying to fufill my childhood dream of being a game dev lmao (learning pygame!!) 
 
 i hope to make fun interactive websites & games to make life more joyous as seen by my unserious ahh hackathon builds... also really like hackathons! i've been to Scrapyard & JPEG Ottawa + will hopefully be attending hack club's Athena hackathon in NYC :D I'm hoping to organize my own hackathon soon: ARCADE Ottawa! (please go when the time comes...)
