@@ -34,7 +34,7 @@ im pretty unqualified #beginner!!! but we ball it'll improve eventually ykkk
 
 ![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=422&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=calm_pink
 )
-<a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/display/blinkiesCafe-badge.gif' alt='blinkies.cafe | make your own blinkies!'></a>
+<img id="freshBlinkie" src="https://blinkies.cafe/b/blinkiesCafe-qZ.gif" alt="generated blinkie">
 <!--
 **ikealoverkat/ikealoverkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
