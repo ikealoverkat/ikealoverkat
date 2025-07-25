@@ -1,6 +1,6 @@
 # Hi there 👋
 ## im kat!
-recently, i've been unemployed enough (aka procrastinating my summer school homework) to lock in and actually code... i like (and am semi-competent at) web development (HTML, CSS, JS) but i'm learning and learning tailwind CSS to make my life easier & trying to fufill my childhood dream of being a game dev lmao (learning pygame!!) 
+recently, i've been unemployed enough (aka procrastinating my summer school homework) to lock in and actually code... i like (and am semi-competent at) web development (HTML, CSS, JS) but i'm learning & trying to fufill my childhood dream of being a game dev lmao (learning pygame!!) 
 
 i hope to make fun interactive websites & games to make life more joyous as seen by my unserious ahh hackathon builds... also really like hackathons! i've been to Scrapyard & JPEG Ottawa + will hopefully be attending hack club's Athena hackathon in NYC :D I'm hoping to organize my own hackathon soon: ARCADE Ottawa! (please go when the time comes...)
 ## goals
@@ -15,6 +15,7 @@ im pretty unqualified #beginner!!! but we ball it'll improve eventually ykkk
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### languages i'm learning (ish)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
