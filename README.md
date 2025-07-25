@@ -32,7 +32,7 @@ im pretty unqualified #beginner!!! but we ball it'll improve eventually ykkk
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
-[Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=422&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=calm_pink
+![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=422&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=calm_pink
 )
 <!--
 **ikealoverkat/ikealoverkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
