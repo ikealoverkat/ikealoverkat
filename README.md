@@ -35,7 +35,7 @@ im pretty unqualified #beginner!!! but we ball it'll improve eventually ykkk
 ![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=422&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=calm_pink
 )
 <br>
-<img id="freshBlinkie" src="https://imgur.com/sUGDafn" alt="generated blinkie">
+<img id="freshBlinkie" src="url(https://imgur.com/sUGDafn)" alt="generated blinkie">
 <!--
 **ikealoverkat/ikealoverkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
