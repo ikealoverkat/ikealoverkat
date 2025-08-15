@@ -19,7 +19,6 @@ im pretty unqualified #beginner!!! but we ball it'll improve eventually ykkk
 
 ### languages i'm learning (ish)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ### random stuff i use! (adobe is the reason I have no money...)
