@@ -20,7 +20,6 @@ im pretty unqualified #beginner!!! but we ball it'll improve eventually ykkk
 ### languages i'm learning (ish)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Kaplay?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&labelColor=%2394DB53&color=%2394DB53)
 
 ### random stuff i use! (adobe is the reason I have no money...)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
