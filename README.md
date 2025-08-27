@@ -1,8 +1,8 @@
 # Hi there 👋
 ## im kat!
-recently, i've been unemployed enough (aka procrastinating my summer school homework) to lock in and actually code... i like (and am semi-competent at) web development (HTML, CSS, JS) but i'm learning & trying to fufill my childhood dream of being a game dev lmao (learning pygame + godot!!) 
+recently, i've been unemployed enough to lock in and actually code... i like (and am semi-competent at) web development (HTML, CSS, JS) but i'm learning & trying to fufill my childhood dream of being a game dev lmao (learning pygame + godot + kaplay!! maybe lua?) 
 
-i hope to make fun interactive websites & games to make life more joyous as seen by my unserious ahh hackathon builds... also really like hackathons! i've been to Scrapyard & JPEG Ottawa + will hopefully be attending hack club's Athena hackathon in NYC :D I'm hoping to organize my own hackathon soon: ARCADE Ottawa! (please go when the time comes...)
+i hope to make fun interactive websites & games to make life more joyous as seen by my unserious ahh hackathon builds... also really like hackathons! i've been to Scrapyard & JPEG Ottawa + will hopefully be attending hack club's Athena hackathon in NYC :D I'm working on a few things for Hack Club such as the Storyboard YSWS and a potential HQ hackathon... :O (please go when the time comes...) im also working on my own hackathon, will update when the time comes :3
 ## goals
 - become employed
 - pass high school
@@ -20,6 +20,7 @@ im pretty unqualified #beginner!!! but we ball it'll improve eventually ykkk
 ### languages i'm learning (ish)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Kaplay?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto&labelColor=%2394DB53&color=%2394DB53)
 
 ### random stuff i use! (adobe is the reason I have no money...)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
