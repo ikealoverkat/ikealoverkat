@@ -1,6 +1,6 @@
 # Hi there 👋
 ## im kat!
-recently, i've been unemployed enough to lock in and actually code... i like (and am semi-competent at) web development (HTML, CSS, JS) but i'm learning & trying to fufill my childhood dream of being a game dev lmao (learning pygame + godot + kaplay!! maybe lua?) 
+recently, i've been unemployed enough to lock in and actually code... i like (and am semi-competent at) web development but i'm learning & trying to fufill my childhood dream of being a game dev lmao (learning pygame + godot + kaplay!! maybe lua?) 
 
 i hope to make fun interactive websites & games to make life more joyous as seen by my unserious ahh hackathon builds... also really like hackathons! i've been to Scrapyard & JPEG Ottawa + will hopefully be attending hack club's Athena hackathon in NYC :D I'm working on a few things for Hack Club such as the Storyboard YSWS and a potential HQ hackathon... :O (please go when the time comes...) im also working on my own hackathon, will update when the time comes :3
 ## goals
