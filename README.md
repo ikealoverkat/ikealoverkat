@@ -10,7 +10,7 @@ i hope to make fun interactive websites & games to make life more joyous as seen
 - win another art comp
 - don't disappoint parents challenge [IMPOSSIBLE!] [3AM CHALLENGE]
 ## tech stack
-im pretty unqualified #beginner!!! but we ball it'll improve eventually ykkk
+im pretty unqualified #beginner!!! but we ball it'll improve eventually... hopefully
 ### languages/stuff i've shipped projects with
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
