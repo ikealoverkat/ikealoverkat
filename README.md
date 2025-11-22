@@ -2,7 +2,7 @@
 ## im kat!
 it's been a whole 8 months since i started coding/hack clubbing in march... holy character development... i like webdev but im learning gamedev! we ball!
 
-i wanna make fun interactive websites/games to make life more joyous ... also really like hackathons!  i've been to Scrapyard & JPEG Ottawa + WON PARTHENON IN NYC!! (see the supacool app we made [here](https://github.com/joysudo/catatime/tree/master) !!) rn i'm organizing Hack Club's [Storyboard YSWS](storyboard.hackclub.com),  and I'll be organizing 2 upcoming local hackathons: 1 in february & one during the summer 👀👀👀 pls come! hackathons r awesome and got me into coding!! (i learned python, backend webdev, and how to make a chrome extension in ~24h... all at hackathons ☠️)
+i wanna make fun interactive websites/games to make life more joyous ... also really like hackathons!  i've been to Scrapyard & JPEG Ottawa + WON PARTHENON IN NYC!! (see the supacool app we made [here](https://github.com/joysudo/catatime/tree/master) !!) rn i'm organizing Hack Club's [Storyboard YSWS](storyboard.hackclub.com),  and I'll be organizing 2 upcoming local hackathons: 1 in february & one during the summer 👀👀👀 pls come! hackathons r awesome and got me into coding!! (i learned python, backend webdev, and how to make a chrome extension in ~24h at 3 seperate hackathons ☠️)
 
 ## goals
 - become employed
