@@ -1,29 +1,28 @@
-# Hi there 👋
+# herro (hibachi benihana teriyaki)
 ## im kat!
-recently, i've been unemployed enough to lock in and actually code... i like (and am semi-competent at) web development but i'm learning & trying to fufill my childhood dream of being a game dev lmao (learning pygame + godot + kaplay!! maybe lua?) 
+it's been a whole 8 months since i started coding/hack clubbing in march... holy character development... i like webdev but im learning gamedev! we ball!
 
-i hope to make fun interactive websites & games to make life more joyous as seen by my unserious ahh hackathon builds... also really like hackathons! i've been to Scrapyard & JPEG Ottawa + will hopefully be attending hack club's Athena hackathon in NYC :D I'm working on a few things for Hack Club such as the Storyboard YSWS and a potential HQ hackathon... :O (please go when the time comes...) im also working on my own hackathon, will update when the time comes :3
+i wanna make fun interactive websites/games to make life more joyous ... also really like hackathons!  i've been to Scrapyard & JPEG Ottawa + WON PARTHENON IN NYC!! (see the supacool app we made [here](https://github.com/joysudo/catatime/tree/master) !!) rn i'm organizing Hack Club's [Storyboard YSWS](storyboard.hackclub.com),  and I'll be organizing 2 upcoming local hackathons: 1 in february & one during the summer 👀👀👀 pls come! hackathons r awesome and got me into coding!! (i learned python, backend webdev, and how to make a chrome extension in ~24h... all at hackathons ☠️)
+
 ## goals
 - become employed
 - pass high school
-- get money!
+- get money! ✅
 - win another art comp
 - don't disappoint parents challenge [IMPOSSIBLE!] [3AM CHALLENGE]
-## tech stack
-im pretty unqualified #beginner!!! but we ball it'll improve eventually... hopefully
-### languages/stuff i've shipped projects with
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## personal tech stack
+we ball
+### languages/frameworks i actually like
+- any framework of ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- most frameworks of ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- i had the crashout of the century tryna ship my ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) project but it's pretty cool
 
-### languages/stuff i'm learning (ish)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+### everything else i've used
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
-### random stuff i use! (adobe is the reason I have no money...)
+### creative stuff (adobe is making me poor.)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
@@ -37,17 +36,3 @@ im pretty unqualified #beginner!!! but we ball it'll improve eventually... hopef
 )
 <br>
 ![nyan cat](https://github.com/ikealoverkat/ikealoverkat/blob/main/nyancat.gif)
-<!--
-**ikealoverkat/ikealoverkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
