@@ -1,13 +1,13 @@
 # herro (hibachi benihana teriyaki)
 ## im kat!
-it's been a whole 9 months since i started coding/hack clubbing in march... holy character development... i like webdev but im learning gamedev! we ball!
-
-i wanna make fun interactive websites/games to make life more joyous ... also really like hackathons!  i've been to Scrapyard & JPEG Ottawa + WON PARTHENON IN NYC!! (see the supacool app we made [here](https://github.com/joysudo/catatime/tree/master) !!) rn i'm organizing Hack Club's [Storyboard YSWS](storyboard.hackclub.com),  and I'll be organizing 2 upcoming local hackathons: campfire ottawa (feb 28 - mar 31) & one during the summer 👀👀👀 pls come! hackathons r awesome and got me into coding!! (i learned python, backend webdev, and how to make a chrome extension in ~24h at 3 seperate hackathons ☠️)
-
+i can code i think
+frc 7476 software & hackclub stuff (helped w [storyboard](storyboard.hackclub.com), [sleepover](sleepover.hackclub.com), and campfire ottawa)
+went to a bunch of hackathons and won hack club's [parthenon](parthenon.hackclub.com) in nyc!
 ## goals
 - become employed ✅
 - pass high school
 - get money! ✅
+- get a LARGE SUM of money
 - win another art comp
 - don't disappoint parents challenge [IMPOSSIBLE!] [3AM CHALLENGE]
 ## personal tech stack
@@ -15,12 +15,13 @@ we ball
 ### languages/frameworks i actually like
 - any framework of ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - most frameworks of ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - i had the crashout of the century tryna ship my ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) project but it's pretty cool
+- c pluh pluh
 
 ### everything else i've used
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### creative stuff (adobe is making me poor.)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
