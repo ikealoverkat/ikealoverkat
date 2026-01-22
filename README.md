@@ -1,6 +1,7 @@
 # herro (hibachi benihana teriyaki)
 ## im kat!
 i can code i think
+
 frc 7476 software & hackclub stuff (helped w [storyboard](storyboard.hackclub.com), [sleepover](sleepover.hackclub.com), and campfire ottawa)
 went to a bunch of hackathons and won hack club's [parthenon](parthenon.hackclub.com) in nyc!
 ## goals
