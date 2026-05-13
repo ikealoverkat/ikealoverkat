@@ -1,9 +1,11 @@
 # herro (hibachi benihana teriyaki)
 ## im kat!
-i can code i think
+i code sometimes and i'm an illustrator :p
 
-frc 7476 software & hackclub stuff (helped w [storyboard](storyboard.hackclub.com), [sleepover](sleepover.hackclub.com), and [campfire ottawa](campfire.hackclub.com/ottawa))
-went to a bunch of hackathons and won hack club's [parthenon](parthenon.hackclub.com) in nyc!
+- frc 7476 software
+- i work on some hack club events! (helped w [storyboard](storyboard.hackclub.com), [sleepover](sleepover.hackclub.com), [paradox](paradox.hackclub.com), and [campfire ottawa](campfire.hackclub.com/ottawa))
+- hackathons! yay yay! won [parthenon](parthenon.hackclub.com) in nyc and [sleepover](sleepover.hackclub.com) in chicago :0
+
 ## goals
 - become employed ✅
 - pass high school
@@ -11,18 +13,20 @@ went to a bunch of hackathons and won hack club's [parthenon](parthenon.hackclub
 - get a LARGE SUM of money
 - win another art comp
 - don't disappoint parents challenge [IMPOSSIBLE!] [3AM CHALLENGE]
+  
 ## personal tech stack
 we ball
 ### languages/frameworks i actually like
 - any framework of ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - most frameworks of ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- i had the crashout of the century tryna ship my ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) project but it's pretty cool
+- SVELTE!!!!!!
 - c pluh pluh
 
 ### everything else i've used
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 
 ### creative stuff (adobe is making me poor.)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
