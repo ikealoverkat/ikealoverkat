@@ -1,44 +1,33 @@
-# herro (hibachi benihana teriyaki)
-## im kat!
-i code sometimes and i'm an illustrator :p
+# hi ![nyan cat](https://github.com/ikealoverkat/ikealoverkat/blob/main/nyancat.gif)
+## i'm kat!
+i like web design and development :) freelance illustrator
 
-- frc 7476 software
-- i work on some hack club events! (helped w [storyboard](storyboard.hackclub.com), [sleepover](sleepover.hackclub.com), [paradox](paradox.hackclub.com), and [campfire ottawa](campfire.hackclub.com/ottawa))
-- hackathons! yay yay! won [parthenon](parthenon.hackclub.com) in nyc and [sleepover](sleepover.hackclub.com) in chicago :0
+---
 
-## goals
-- become employed ✅
-- pass high school
-- get money! ✅
-- get a LARGE SUM of money
-- win another art comp
-- don't disappoint parents challenge [IMPOSSIBLE!] [3AM CHALLENGE]
+check out my [personal website](kat.wang) (still under construction!)
+
+contact me at [hi@kat.wang](mailto:hi@kat.wang), [katwang7749@gmail.com](mailto:katwang7749@gmail.com)
+
+<img src="https://cdn.hackclub.com/019e3dfc-2ef4-7957-a1ef-228562af142e/vegetable2.png" width="100px" height="100px" alt="cat mascot">
+
+---
+## things i do
+- software for frc 7476
+- hack club events (helped w [storyboard](storyboard.hackclub.com) and [campfire ottawa](campfire.hackclub.com/ottawa). did UI/wireframes for [sleepover](sleepover.hackclub.com) and [paradox](paradox.hackclub.com) )
+- hackathons! won [parthenon](parthenon.hackclub.com) in nyc and [sleepover](sleepover.hackclub.com) in chicago
   
 ## personal tech stack
-we ball
-### languages/frameworks i actually like
-- any framework of ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- most frameworks of ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- SVELTE!!!!!!
-- c pluh pluh
-
-### everything else i've used
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-
-### creative stuff (adobe is making me poor.)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+| favourites | everything else | creative |
+|---|---|---|
+| Svelte! | Java (for FRC) | Adobe After Effects |
+| Javascript | Godot (GDScript/GDShader) | Adobe Illustrator |
+| Figma | Python | Adobe Premiere Pro |
+| Tailwind CSS | C++ (Arduino) | Adobe Photoshop |
+| | Astro | Canva |
+| | React | Audacity |
+| | Typescript | Krita |
 
 ![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=422&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=calm_pink
 )
 <br>
-![nyan cat](https://github.com/ikealoverkat/ikealoverkat/blob/main/nyancat.gif)
+
