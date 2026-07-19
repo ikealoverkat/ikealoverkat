@@ -32,13 +32,14 @@ check out my [personal website](kat.wang) (still under construction!)
 ## tech stack
 | favourites | everything else | creative |
 |---|---|---|
-| Svelte! | Java (for FRC) | Adobe After Effects |
+| Svelte! | my opp nextjs | Adobe After Effects |
 | Javascript | Godot (GDScript/GDShader) | Adobe Illustrator |
 | Figma | Python | Adobe Premiere Pro |
 | Tailwind CSS | C++ (Arduino) | Adobe Photoshop |
 | | Astro | Canva |
 | | React | Audacity |
 | | Typescript | Krita |
+| | Java (for FRC) | |
 
 ![Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=422&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=calm_pink
 )
