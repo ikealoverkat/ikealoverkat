@@ -11,7 +11,7 @@ currently interested in frontend development, ui/ux, and creative projects :)
 
 ---
 
-check out my [personal website](kat.wang) (still under construction!)
+check out my [personal website](https://kat.wang) (still under construction!)
 
 ---
 
